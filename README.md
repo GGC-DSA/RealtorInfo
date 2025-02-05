@@ -9,4 +9,4 @@ Nazmun Nahar - Project Manager and Visualization
 Tran Truong - Client liaison and Data Analyzer
 
 ## Description
-A couple of datasets are being reviewed, and the description will be updated shortly. 
+In this project, we aim to use a real estate dataset to help a client make an informed decision whenn= choosing where to purchase real estate
