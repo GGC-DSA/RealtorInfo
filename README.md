@@ -14,4 +14,8 @@ For our Data Science and Analytics Capstone project, our team collaborated with 
 ## Project Website
 ## Project Notebook
 ## Project Poster
+## Project Poster
+
+[Project Poster (PDF)](https://github.com/GGC-DSA/RealtorInfo/raw/main/docs-Spr2025/Squad-Poster.pdf)
+
 
