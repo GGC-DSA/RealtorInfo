@@ -10,7 +10,7 @@ to be added later
 link to be added
 
 ## Project Notebook
-[View Final Project Notebook](https://github.com/GGC-DSA/RealtorInfo/blob/main/docs-Spr2025/notebooks/FinalNotebook_RealEstateFindings.ipynb)
+[View Final Project Notebook](https://github.com/GGC-DSA/RealtorInfo/blob/main/docs-Spr2025/notebooks/FinalNotebook_RealEstateFindings-4.ipynb)
 
 
 ## Project Poster
