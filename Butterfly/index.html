@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <title>ITEC 4230 Capstone Project</title>
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com" rel="preconnect">
+  <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Butterfly
+  * Template URL: https://bootstrapmade.com/butterfly-free-bootstrap-theme/
+  * Updated: Aug 07 2024 with Bootstrap v5.3.3
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body class="index-page">
+
+  <header id="header" class="header d-flex align-items-center sticky-top">
+    <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
+
+      <a href="index.html" class="logo d-flex align-items-center">
+        <img src="assets/img/college-seal_429x424.png" alt="">
+        <!-- Uncomment the line below if you also wish to use text logo -->
+        <h1 class="sitename">ITEC 4230 Capstone Project</h1>
+      </a>
+
+      <nav id="navmenu" class="navmenu">
+        <ul>
+          <li><a href="#hero" class="active">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#clients">Tech</a></li>
+          <li><a href="#services">Hypotheses</a></li>
+          <li><a href="#team">Team</a></li>
+        <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
+      </nav>
+
+    </div>
+  </header>
+
+  <main class="main">
+
+    <!-- Hero Section -->
+    <section id="hero" class="hero section light-background">
+
+      <div class="container">
+        <div class="row gy-4">
+          <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center text-center text-md-start" data-aos="fade-up">
+            <h2>Real Estate Analysis for Property Purchase in Georgia</h2>
+            <p>We aim to use several datasets to help analyze factors that may affect 
+               the property value of homes in Georgia
+            </p>
+            <p>Check out our <a href="https://github.com/GGC-DSA/RealtorInfo" target="_blank">GitHub</a> page and <a href="https://colab.research.google.com/drive/15THiHR6rgb4eKzB5MnNROS0ff7Fp14nS" target="_blank">Colab Notebook</a></p>
+            <div class="d-flex mt-4 justify-content-center justify-content-md-start">
+              <a href="#about" class="cta-btn">Continue</a>
+            </div>
+          </div>
+          <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="zoom-out" data-aos-delay="100">
+            <img src="assets/img/Poster.jpg" class="img-fluid animated" alt="">
+            <span>Poster used for presentation at GGC STARS event</span>
+          </div>
+        </div>
+      </div>
+
+    </section><!-- /Hero Section -->
+
+    <!-- About Section -->
+    <section id="about" class="about section">
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6 position-relative" data-aos="fade-up" data-aos-delay="100">
+            <img src="assets/img/house_sold.jpg" class="img-fluid" alt="">
+          </div>
+
+          <div class="col-lg-6 ps-lg-4 content d-flex flex-column justify-content-center" data-aos="fade-up" data-aos-delay="200">
+            <h3>About The Project</h3>
+            <p>
+              For our Data Science and Analytics Capstone project, our team collaborated 
+              with our client, Dr. Anca Doloc-Mihu, to analyze real estate in 
+              Georgia. Using datasets on healthcare, labor, 
+              and crime statistics by county, we explored how these factors impact real 
+              estate value. We have analyzed healthcare availability, 
+              employment rates, and crime statistics to find potential correlations, 
+              offering insights into real estate pricing.
+            </p>
+            <ul>
+              <li>
+                <i class="bi bi-database"></i>
+                <div>
+                  <p>
+                    <strong>Main Dataset:</strong>
+                    <a href="https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset" target="_blank" rel="noopener noreferrer">
+                      Kaggle Dataset
+                    </a>
+                    <p>This dataset, which was obtained from Kaggle, contains the main 
+                      statistics we hope to analyze, such as the price of the real estate 
+                      listing, as well as location.
+                    </p>
+                  </p>
+                </div>
+              </li>
+
+              <li>
+                <i class="bi bi-heart-pulse"></i>
+                <div>
+                  <p>
+                    <strong>Health Dataset:</strong>
+                    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fgeorgiadata.org%2Fsites%2Fdefault%2Ffiles%2Fhealth_24.xlsx&wdOrigin=BROWSELINK" target="_blank" rel="noopener noreferrer">
+                      Healthcare Dataset
+                    </a>
+                    <p>This dataset, which was obtained from Kaggle, contains the main 
+                      statistics we hope to analyze, such as the price of the real estate 
+                      listing, as well as location.
+                    </p>
+                  </p>
+                </div>
+              </li>
+
+              <li>
+                <i class="bi bi-briefcase"></i>
+                <div>
+                  <p>
+                    <strong>Unemployment Dataset:</strong>
+                    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fgeorgiadata.org%2Fsites%2Fdefault%2Ffiles%2Flabor_24.xlsx&wdOrigin=BROWSELINK" target="_blank" rel="noopener noreferrer">
+                      Labor Dataset
+                    </a>
+                    <p>While this dataset contained several valuable fields, we decided to explore 
+                      how unemployment may affect real estate value per county.
+                    </p>
+                  </p>
+                </div>
+              </li>
+
+              <li>
+                <i class="bi bi-search"></i>
+                <div>
+                  <p>
+                    <strong>Crime Dataset:</strong>
+                    <a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fgeorgiadata.org%2Fsites%2Fdefault%2Ffiles%2Fcrime_24.xlsx&wdOrigin=BROWSELINK" target="_blank" rel="noopener noreferrer">
+                      Crime Statistics Dataset
+                    </a>
+                    <p>This dataset contains information relating to crime statistics, 
+                      including type of crime reported and county.
+                    </p>
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+        </div>
+
+      </div>
+
+    </section><!-- /About Section -->
+
+    <!-- Stats Section -->
+    <section id="stats" class="stats section light-background">
+
+      <img src="assets/img/stats-bg.jpg" alt="" data-aos="fade-in">
+
+      <div class="container position-relative" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-5">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="1048576" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Total Records</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-4 col-md-5">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="169235" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Records in Georgia</p>
+            </div>
+          </div><!-- End Stats Item -->
+
+          <div class="col-lg-4 col-md-5">
+            <div class="stats-item text-center w-100 h-100">
+              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Total Datasets</p>
+            </div>
+          </div><!-- End Stats Item -->
+        </div>
+      </div>
+
+    </section><!-- End Stats Section -->
+
+    <!-- Tech Section -->
+    <section id="clients" class="clients section">
+
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Technologies</h2>
+        <p>Key technologies used for data processing, visualization, and 
+          project management
+        </p>
+      </div><!-- End Section Title -->
+
+      <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="row g-0 clients-wrap">
+
+          <div class="col-xl-3 col-md-3 client-logo">
+            <div class="member">
+              <img src="assets/img/tech/Github.png" class="img-fluid" alt="">
+              <div class="client-info">
+                <div class="client-info-content">
+                  <h4>GitHub</h4>
+                  <span>Used for project repository</span>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Github Icon -->
+
+          <div class="col-xl-3 col-md-3 client-logo">
+            <div class="member">
+              <img src="assets/img/tech/Python.png" class="img-fluid" alt="">
+              <div class="client-info">
+                <div class="client-info-content">
+                 <h4>Python</h4>
+                  <span>Language used for data cleaning and visualization</span>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Python icon -->
+
+          <div class="col-xl-3 col-md-3 client-logo">
+            <div class="member">
+              <img src="assets/img/tech/colab.png" class="img-fluid" alt="">
+              <div class="client-info">
+                <div class="client-info-content">
+                 <h4>Google Colab</h4>
+                  <span>Used to collaborate on data cleaning and visualization</span>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Colab icon -->
+
+          <div class="col-xl-3 col-md-3 client-logo">
+            <div class="member">
+              <img src="assets/img/tech/Jira.png" class="img-fluid" alt="">
+              <div class="client-info">
+                <div class="client-info-content">
+                 <h4>Jira</h4>
+                  <span>Used to track progress throughout each phase of the project</span>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Jira icon -->
+
+        </div>
+
+      </div>
+
+    </section><!-- End Tech Section -->
+
+    <!-- Services Section -->
+    <section id="services" class="services section light-background">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Results</h2>
+        <p>Explore the results of our key hypotheses</p>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="service-item  position-relative">
+              <div class="icon">
+                <i class="bi bi-geo-alt" style="color: #0dcaf0;"></i>
+              </div>
+              <a href="service-details.html" class="stretched-link">
+                <h3>Result 1</h3>
+              </a>
+              <p>Properties located closer to major cities will, on average, be worth more</p>
+            </div>
+          </div><!-- End Hypothesis -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-briefcase" style="color: #fd7e14;"></i>
+              </div>
+              <a href="unemployment.html" class="stretched-link">
+                <h3>Result 2</h3>
+              </a>
+              <p>Counties with lower unemployment rates will have higher property values</p>
+            </div>
+          </div><!-- End Hypothesis -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-heart-pulse" style="color: #20c997;"></i>
+              </div>
+              <a href="crimeAndHealth.html" class="stretched-link">
+                <h3>Result 3</h3>
+              </a>
+              <p>Lower crime and better access to healthcare facilities will result in higher property value</p>
+            </div>
+          </div><!-- End Hypothesis -->
+
+          <div class="col-lg-6 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="service-item position-relative">
+              <div class="icon">
+                <i class="bi bi-laptop" style="color: #0d27ea;"></i>
+              </div>
+              <a href="establishments.html" class="stretched-link">
+                <h3>Result 4</h3>
+              </a>
+              <p>Counties with a higher number of technical or government jobs will have higher property values</p>
+            </div>
+          </div><!-- End Hypothesis -->
+
+        </div>
+
+      </div>
+
+    </section><!-- End Hypotheses Section -->  
+
+    <!-- Team Section -->
+    <section id="team" class="team section">
+
+      <!-- Section Title -->
+      <div class="container section-title" data-aos="fade-up">
+        <h2>Team</h2>
+      </div><!-- End Section Title -->
+
+      <div class="container">
+
+        <div class="row gy-4">
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="member">
+              <img src="assets/img/team/Nazmun.jpeg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Nazmun Nahar</h4>
+                  <span>Project Leader</span>
+                  <span>Data Visualizer</span>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
+            <div class="member">
+              <img src="assets/img/team/Niko.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Niko Melas</h4>
+                  <span>Data Modeler</span>
+                  <span>Project Documenter</span>
+                  <span>Webpage Builder</span>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+          <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
+            <div class="member">
+              <img src="assets/img/team/Tran.jpg" class="img-fluid" alt="">
+              <div class="member-info">
+                <div class="member-info-content">
+                  <h4>Tran Truong</h4>
+                  <span>Data Analyst</span>
+                  <span>Client Liaison</span>
+                </div>
+              </div>
+            </div>
+          </div><!-- End Team Member -->
+
+        </div>
+
+      </div>
+
+    </section><!-- /Team Section -->
+
+  </main>
+
+  <!-- Scroll Top -->
+  <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <!-- Preloader -->
+  <div id="preloader"></div>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/purecounter/purecounter_vanilla.js"></script>
+  <script src="assets/vendor/imagesloaded/imagesloaded.pkgd.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+  <!-- Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
