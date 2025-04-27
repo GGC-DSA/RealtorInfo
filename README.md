@@ -34,5 +34,12 @@ _Client Liaison and Data Analyzer_
 
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/9745621f-282d-4c2f-a04a-2fc60285876d" />
 
+## Project Activities
+1) STARS - Georgia Gwinnett College – 4/17/2025
+2) CREATE Symposium - Georgia Gwinnett College – 4/24/2025
+
+## Technologies 
+
+
 
 
