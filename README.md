@@ -2,7 +2,11 @@
 Spring-2025
 
 ## Squad members
-Niko Melas - Data Modeler and Project Documentation
+[Niko Melas] (https://github.com/nmelas)
+Data Modeler and Project Documentation
+
+<img width="188" alt="image" src="https://github.com/user-attachments/assets/983bfc1b-1bd8-4c3c-8a8d-7a32b1543e0c" />
+
 
 Nazmun Nahar - Project Manager and Visualization
 
