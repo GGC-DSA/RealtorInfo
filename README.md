@@ -4,7 +4,7 @@
 For our Data Science and Analytics Capstone project, our team collaborated with our client Dr. Anca Doloc Mihu to analyze real estate trends in Georgia. Using datasets on healthcare access, labor market indicators, and crime statistics by county, we explored how these factors impact real estate growth. We are planning to analyze our healthcare availability, employment rates, and crime patterns to find potential correlations, offering insights into regional growth dynamics. The findings will be presented through dynamic visualizations and webpage
 
 ## Project Demo
-[demo](https://drive.google.com/file/d/10tMxMy7a2dpcbZrD8InGhMdzGs42sMXc/view?usp=drive_link)
+[Website Demo](https://drive.google.com/file/d/10tMxMy7a2dpcbZrD8InGhMdzGs42sMXc/view?usp=drive_link)
 
 ## Project Website
 link to be added
@@ -17,7 +17,7 @@ link to be added
 [Project Poster (PDF)](https://github.com/GGC-DSA/RealtorInfo/blob/main/docs-Spr2025/Squad-Poster.pdf)
 
 ## Final Report
-to be added
+[Final Report](https://drive.google.com/file/d/1KyyAnCW8SzqbzxgLlhux6jNhap2FnWiX/view?usp=sharing)
 
 ## Spring 2025 Team - Squad members
 [Niko Melas](https://github.com/nmelas)  
