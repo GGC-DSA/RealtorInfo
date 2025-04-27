@@ -71,6 +71,10 @@ Counties with lower unemployment rates have higher property values.
 
 ![Screenshot 2025-03-25 231823](https://github.com/user-attachments/assets/ffa94d26-9a32-4dcd-af16-23af2b9b485d)
 
+## TODO Tasks
+Plan to broaden the datasets by incorporating additional states and the latest housing market trends.
+Will add advanced filtering features to enhance the website's functionality.
+
 
 
 
