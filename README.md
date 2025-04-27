@@ -67,7 +67,8 @@ Proximity to major cities has a correlation to average property value. (interact
 (image of graph needed)
 
 Counties with lower unemployment rates have higher property values.
-https://github.com/user-attachments/assets/58e92d5c-6cad-48de-8d02-d007f2b13ce0
+![Screenshot 2025-03-25 231352](https://github.com/user-attachments/assets/0f35a924-d08a-4daf-96b7-be4396dd2756)
+
 
 
 
