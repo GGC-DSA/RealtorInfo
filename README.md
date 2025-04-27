@@ -60,7 +60,7 @@ Project is complete with working website deployed through GitHub pages.
 [Wikipedia List of Georgia Municipalities](https://en.wikipedia.org/wiki/List_of_municipalities_in_Georgia_(U.S._state))
 
 ## Project Usage
-This project provides an analysis of real estate trends across counties in Georgia, focusing on factors like unemployment rates, crime levels, labor availability, and healthcare facilities. Users can explore the relationships between these factors and housing prices through statistical models and interactive dashboards. The project is intended for educational purposes, data analysis practice, and showcasing the use of AI/ML techniques in real-world datasets.
+This project enables users to explore the relationships between unemployment rates, crime levels, labor availability, healthcare facilities, and housing prices across counties in Georgia. Through statistical models, machine learning techniques, and interactive dashboards, users can gain a deeper understanding of real estate trends. The project is designed for educational purposes, data analysis practice, and to demonstrate the application of AI/ML methods on real-world datasets. Users can access the cleaned datasets, review analysis notebooks, and interact with visualizations hosted on the project website.
 
 ## Results
 Proximity to major cities has a correlation to average property value. (interactive map on website)
@@ -68,16 +68,6 @@ Proximity to major cities has a correlation to average property value. (interact
 
 High employment areas will have higher property values
 (image of graph needed)
-
-Linear Regression Model: Predicting Property Prices
-We applied a multiple linear regression model to predict average property prices based on county-level crime rates and labor establishment counts in Georgia. The scatter plot below shows actual prices versus predicted prices. The red dashed line represents perfect predictions. Most points cluster along the lower to mid-price ranges, indicating the model captures general pricing patterns, but struggles more with extremely high property prices.
-<img width="1013" alt="Screenshot 2025-04-27 at 12 26 51" src="https://github.com/user-attachments/assets/0b5a5460-1696-45c6-aacc-7efbe843ac02" />
-
-Top 20 Counties by Crime Rate and House Price
-This chart compares crime rates and average house prices across the top 20 counties in Georgia. The red bars represent crime rates (measured per 100,000 people), while the blue line shows the average house prices in each county. Higher crime rates do not always correspond to lower property prices, suggesting that other factors also influence housing markets in these regions.
-<img width="1332" alt="Screenshot 2025-04-27 at 12 31 36" src="https://github.com/user-attachments/assets/c099ec8a-30f6-4545-910b-42e860a199eb" />
-
-
 
 
 
