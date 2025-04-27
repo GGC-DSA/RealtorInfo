@@ -63,8 +63,9 @@ Project is complete with working website deployed through GitHub pages.
 This project enables users to explore the relationships between unemployment rates, crime levels, labor availability, healthcare facilities, and housing prices across counties in Georgia. Through statistical models, machine learning techniques, and interactive dashboards, users can gain a deeper understanding of real estate trends. The project is designed for educational purposes, data analysis practice, and to demonstrate the application of AI/ML methods on real-world datasets. Users can access the cleaned datasets, review analysis notebooks, and interact with visualizations hosted on the project website.
 
 ## Results
-Proximity to major cities has a correlation to average property value. (interactive map on website)
-(image of graph needed)
+Proximity to major cities has a correlation to average property value. 
+![cachedImage](https://github.com/user-attachments/assets/8769c4e5-ce5a-4d62-ab15-5d1f27666c4e)
+
 
 Counties with lower unemployment rates have higher property values.
 ![Screenshot 2025-03-25 231352](https://github.com/user-attachments/assets/0f35a924-d08a-4daf-96b7-be4396dd2756)
