@@ -2,8 +2,8 @@
 Spring-2025
 
 ## Squad members
-[Niko Melas] (https://github.com/nmelas)
-Data Modeler and Project Documentation
+[Niko Melas](https://github.com/nmelas)
+_Data Modeler and Project Documentation_
 
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/983bfc1b-1bd8-4c3c-8a8d-7a32b1543e0c" />
 
