@@ -9,14 +9,18 @@ _Data Modeler and Project Documentation_
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/983bfc1b-1bd8-4c3c-8a8d-7a32b1543e0c" />
 
 
+
 [Nazmun Nahar](https://github.com/GGC-DSA/RealtorInfo/tree/main/docs-Spr2025)  
 _Project Manager and Visualization_
 
 <img width="206" alt="image" src="https://github.com/user-attachments/assets/8b7ec16c-a73d-4b6f-a83b-7f0e51cc014a" />
 
 
-Tran Truong(https://github.com/trantruong200)  
+
+
+[Tran Truong](https://github.com/trantruong200)  
 _Client liaison and Data Analyzer_
+
 
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/9745621f-282d-4c2f-a04a-2fc60285876d" />
 
