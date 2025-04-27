@@ -11,7 +11,7 @@ For our Data Science and Analytics Capstone project, our team collaborated with 
 
 
 
-## Squad members
+## Spring 2025 Team - Squad members
 [Niko Melas](https://github.com/nmelas)  
 _Data Modeler and Project Documentation_
 
