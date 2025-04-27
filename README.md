@@ -62,25 +62,15 @@ Project is complete with working website deployed through GitHub pages.
 ## Project Usage
 This project enables users to explore the relationships between unemployment rates, crime levels, labor availability, healthcare facilities, and housing prices across counties in Georgia. Through statistical models, machine learning techniques, and interactive dashboards, users can gain a deeper understanding of real estate trends. The project is designed for educational purposes, data analysis practice, and to demonstrate the application of AI/ML methods on real-world datasets. Users can access the cleaned datasets, review analysis notebooks, and interact with visualizations hosted on the project website.
 
-## Datasets
-Main Dataset(Real Estate): ​The USA Real Estate Dataset taken from Kaggle comprises over 2.2 million real estate listings across the United States, organized by state and ZIP code. It includes details such as property type, price, number of bedrooms and bathrooms, square footage, and address information. https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
-
-Three additonal datasets taken from this website: https://georgiadata.org/data/data-tables
-
-Health Dataset: ​https://georgiadata.org/sites/default/files/health_24.xlsx
-
-Labor Dataset: https://georgiadata.org/sites/default/files/labor_24.xlsx
-
-Crime Dataset: https://georgiadata.org/sites/default/files/crime_24.xlsx
-
-Used this dataset for mapping. https://en.wikipedia.org/wiki/List_of_municipalities_in_Georgia_(U.S._state)
-
 ## Results
 Proximity to major cities has a correlation to average property value. (interactive map on website)
 (image of graph needed)
 
-High employment areas will have higher property values
-(image of graph needed)
+Counties with lower unemployment rates have higher property values.
+[Screenshot 2025-04-20 134207](https://github.com/user-attachments/assets/58e92d5c-6cad-48de-8d02-d007f2b13ce0)
+
+
+
 
 
 
