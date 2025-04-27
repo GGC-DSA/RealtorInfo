@@ -76,10 +76,12 @@ Top 20 Counties by Crime Rate and House Price
 <img width="1319" alt="Screenshot 2025-04-27 at 15 50 54" src="https://github.com/user-attachments/assets/2a3d5e43-7649-4e99-8ef9-3e5dd18dae50" />
 
 County Clustering – Hospitals vs House Prices
-<img width="417" alt="image" src="https://github.com/user-attachments/assets/f6a190d4-6f32-4dd0-b895-62473d67f693" />
+
+<img width="996" alt="Screenshot 2025-04-27 at 15 53 37" src="https://github.com/user-attachments/assets/d09b1dcc-7214-409b-9803-e6adb6302c1b" />
+
 
 Counties by Hospital Facilities and House Price with Trendline
-<img width="468" alt="image" src="https://github.com/user-attachments/assets/e811038d-b459-4b3a-b504-dd4f9224a8cc" />
+<img width="1182" alt="Screenshot 2025-04-27 at 15 54 18" src="https://github.com/user-attachments/assets/87e51950-f9e6-4742-b873-4f52d21557ae" />
 
 
 
