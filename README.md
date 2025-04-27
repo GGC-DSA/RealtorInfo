@@ -29,7 +29,7 @@ _Project Manager and Visualization_
 
 
 [Tran Truong](https://github.com/trantruong200)  
-_Client liaison and Data Analyzer_
+_Client Liaison and Data Analyzer_
 
 
 <img width="188" alt="image" src="https://github.com/user-attachments/assets/9745621f-282d-4c2f-a04a-2fc60285876d" />
