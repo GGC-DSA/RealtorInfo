@@ -1,10 +1,9 @@
-# Squad
-Spring-2025
+# Real Estate Analysis for Property Purchase in Georgia
 
 ## Project Description
 For our Data Science and Analytics Capstone project, our team collaborated with our client Dr. Anca Doloc Mihu to analyze real estate trends in Georgia. Using datasets on healthcare access, labor market indicators, and crime statistics by county, we explored how these factors impact real estate growth. We are planning to analyze our healthcare availability, employment rates, and crime patterns to find potential correlations, offering insights into regional growth dynamics. The findings will be presented through dynamic visualizations and webpage
 
-## Project Demo
+# Project Demo
 to be added later
 
 ## Project Website
@@ -58,6 +57,9 @@ Project is complete with working website deployed through GitHub pages.
 [Labor Dataset](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fgeorgiadata.org%2Fsites%2Fdefault%2Ffiles%2Flabor_24.xlsx&wdOrigin=BROWSELINK)
 [Crime Dataset](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fgeorgiadata.org%2Fsites%2Fdefault%2Ffiles%2Fcrime_24.xlsx&wdOrigin=BROWSELINK)
 [Wikipedia List of Georgia Municipalities](https://en.wikipedia.org/wiki/List_of_municipalities_in_Georgia_(U.S._state))
+
+## Project Usage
+This project provides an analysis of real estate trends across counties in Georgia, focusing on factors like unemployment rates, crime levels, labor availability, and healthcare facilities. Users can explore the relationships between these factors and housing prices through statistical models and interactive dashboards. The project is intended for educational purposes, data analysis practice, and showcasing the use of AI/ML techniques in real-world datasets.
 
 ## Main Results
 Proximity to major cities has a correlation to average property value. (interactive map on website)
