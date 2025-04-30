@@ -7,7 +7,7 @@ For our Data Science and Analytics Capstone project, our team collaborated with 
 [Website Demo](https://drive.google.com/file/d/10tMxMy7a2dpcbZrD8InGhMdzGs42sMXc/view?usp=drive_link)
 
 ## Project Website
-link to be added
+[Project Website](https://ggc-dsa.github.io/RealtorInfo/)
 
 ## Project Notebook
 [View Final Project Notebook](https://github.com/GGC-DSA/RealtorInfo/blob/main/docs-Spr2025/notebooks/FinalNotebook_RealEstateFindings-4.ipynb)
